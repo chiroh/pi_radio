@@ -1,0 +1,13 @@
+HARDWARE: Raspberry Pi
+          Speaker system
+
+SOFTWARE: Mopidy (music server package)
+            -- sudo apt-get install mopidy
+
+          mopidy-spotify (backend-extension for spotify)
+            -- sudo apt-get install mopidy-spotify
+
+          iris (frontend-web extension)
+            -- sudo pip2 install Mopidy-iris
+
+OTHER REQUIREMENTS: Spotify Premium account 
